@@ -1,0 +1,3 @@
+rootProject.name = 'circulo'
+
+include ':app'
